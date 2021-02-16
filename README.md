@@ -1,2 +1,2 @@
 # gitatcusat
-# [Python Program](README.md)
+# [Python Program](myprogram.py)
